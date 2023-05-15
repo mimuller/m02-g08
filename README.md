@@ -6,4 +6,5 @@ Integrantes:
 - Carolina Sepúlveda
 - Valentina Moraga
 - Lorenzo Palacios
+- Sara Izquierdo
 
