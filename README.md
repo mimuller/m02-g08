@@ -5,3 +5,5 @@ Integrantes:
 - Martina Correa
 - Carolina Sepúlveda
 - Valentina Moraga
+- Lorenzo Palacios
+
