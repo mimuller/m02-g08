@@ -8,3 +8,4 @@ Integrantes:
 - Lorenzo Palacios
 - Sara Izquierdo
 - Martina Osses
+- Thaís Bravo
