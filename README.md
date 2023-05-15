@@ -4,3 +4,4 @@ Integrantes:
 - Michelle Müller
 - Martina Correa
 - Carolina Sepúlveda
+- Lorenzo Palacios
