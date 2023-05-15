@@ -7,4 +7,4 @@ Integrantes:
 - Valentina Moraga
 - Lorenzo Palacios
 - Sara Izquierdo
-
+- Martina Osses
