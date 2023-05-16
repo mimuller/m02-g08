@@ -9,4 +9,4 @@ Integrantes:
 - Sara Izquierdo
 - Martina Osses
 - Thaís Bravo
-- Sebastian González
+- Sebastián González
