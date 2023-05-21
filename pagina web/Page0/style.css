@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Carrois+Gothic&display=swap%27');
+
+body {font-family: 'Carrois Gothic';
+	  background-color: black;
+	  color: white;
+	  align-items: center;
+	  }
+
+
+header
+
+  #titulo {text-align: center;
+          margin-top: 3vw;
+          margin-bottom: 15vw;
+          }
+
+main
+
+  #iconos {display: table;
+           margin: 0 auto;
+           }
+
+   #icono1 {display: table-cell;
+            padding: 40px;
+            color: gray;}
+   #icono2 {display: table-cell;
+            padding: 40px;}
+   #icono3 {display: table-cell;
+            padding: 40px;}
+   #icono4 {display: table-cell;
+            padding: 40px;}
+   #icono5 {display: table-cell;
+            padding: 40px;}
+
+footer
+  
+  #grupo {text-align: center;
+  	      margin-top: 16vw;
+          }
+
+
