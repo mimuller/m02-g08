@@ -104,11 +104,19 @@ section #div1 h3{
 	margin-bottom: -6vw;
 }
 
+<<<<<<< HEAD
 section #div1 p{
 	font-family: 'Carrois Gothic';
 	font-size: 1.2vw;
 	color: white;
 }
+=======
+main 
+
+#titulo {color: #FDC92F;
+         margin-left: 8vw;
+         margin-top: 4vw;}
+>>>>>>> 5fb187d515abfd9407f1861a76753187f73277ec
 
 section #div2{
 	margin-right: 2vw;
