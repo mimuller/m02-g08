@@ -41,17 +41,31 @@ main {color: white;
          margin-left: 8vw;
          margin-top: 4vw;}
 
+#titulo h1{
+	font-family: 'Space Grotesk';
+	font-size: 5vw;
+	font-weight: 700;
+}
+
+#titulo h2 {
+	font-family: 'Space Grotesk';
+	font-size: 2vw;
+	font-weight: 300;
+	margin-top: -1vw;
+}
+
 .caja1 {margin-left: 4vw;
 	    margin-right: 8vw;
-        display: flex;
+        display: inline-flex;
         }
   
-  #ojito {width:70vw;
-         padding: 3vw;
+  #ojito {width:20vw;
          margin-left: 1vw;}
 
-  .caja1 p {margin-left: 3vw;
-	      }
+  .caja1 p {	margin-right: 2vw;
+	color: white;
+	font-size: 1.6vw;
+margin-top: 4vw}
 
 .caja2 {margin-left: 8vw;
 	    margin-right: 8vw;
@@ -61,7 +75,11 @@ main {color: white;
   #texto1 {margin-right: 4vw;}
 
   .caja2 h1 {color: #FDC92F;
+  	font-size: 2.4vw;
              }
+   .caja2 p {	margin-right: 2vw;
+	color: white;
+	font-size: 1.6vw;}
 
 
 .caja3 {margin: auto;

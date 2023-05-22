@@ -75,6 +75,16 @@ main {color: white;}
          margin-left: 8vw;
          margin-top: 4vw;}
 
+#titulo h1{
+	font-size: 5vw;
+	font-weight: 700;
+}
+
+#titulo h2{
+	font-size: 2vw;
+	font-weight: 300;
+}
+
 
 #cajas {display: flex;
 	    float: left;
@@ -88,8 +98,12 @@ main {color: white;}
          margin-right: 6vw;
          margin-left: 8vw;
          }       
-  
+  .texto p{
+  	font-size: 1.5vw;
+  }
+
   .texto h1 {color: #FDC92F;
+  	font-size: 2.4vw;
              }
 
 

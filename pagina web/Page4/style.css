@@ -15,6 +15,12 @@ header {
 	height: 15vh;
 }
 
+main	{
+	margin: 2vw;
+
+	padding: 2vw;
+}
+
 #ojo {
 	width: 8vw;
 	height: 8vw;
@@ -35,34 +41,21 @@ header {
 }
 
 
-footer {
-	text-align: center;
-	color: black;
-	background-color: #FDC92F;
-	height: 10vw;
-	justify-content: center;
-	display: flex;
-	width: 100%;
-	margin-top: 20px;
-}
 
-
-#foot {
+#titulos h1{
 	font-family: 'Space Grotesk';
-	font-size: 2vw;
-	font-weight: 300;
-	height: 10vw;
-	margin-top: 7vh;
-}
+	font-size: 5vw;
+	font-weight: 700;
+	color: #FDC92F;}
 
-#titulos h1 {color: #FDC92F;}
+
 h2 {color: #FDC92F;}
 
 main {color: white;}
 
 #titulos {font-family: 'Space Grotesk';}
 
-#fotojuju {padding-left: 12vw;}
+#fotojuju {text-align: center;}
 
 #titulos {margin-left: 3.5vw;
 	font-size: 1.7vw;}
@@ -86,7 +79,24 @@ main {color: white;}
 #aver {margin-top: 3vw;}
 
 
+footer {
+	text-align: center;
+	color: black;
+	background-color: #FDC92F;
+	height: 10vw;
+	justify-content: center;
+	display: flex;
+	width: 100%;
+}
 
+
+#foot {
+	font-family: 'Space Grotesk';
+	font-size: 2vw;
+	font-weight: 300;
+	height: 10vw;
+	margin-top: 7vh;
+}
 
 
 
