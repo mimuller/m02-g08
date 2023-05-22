@@ -69,8 +69,11 @@ section h3{
 
 
 
-main {color: white
-      }
+main 
+
+#titulo {color: #FDC92F;
+         margin-left: 8vw;
+         margin-top: 4vw;}
 
 
 #cajas {display: flex;
