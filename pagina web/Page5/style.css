@@ -3,6 +3,7 @@
 
 body {
 	background-color: black;
+
 }
 
 header {
@@ -32,6 +33,202 @@ header {
 	margin-inline: 2vw;
 	margin-top: 0.8vw;
 	width: 2.5vw;
+}
+
+main {
+	color: white;
+	font-size: 1.6vw;
+	text-align: center;
+	align-items: center;
+	font-family: 'Carrois Gothic';
+
+
+}
+
+.p1 {
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#thais {
+	width: 14vw;
+	height: 22vw;
+	display: table-cell;
+	
+}
+.texto1 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+
+.p2 {
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#chiwi {
+	width: 10vw;
+	height: 23vw;
+	display: table-cell;
+
+	
+}
+.texto2 {
+	display: table-cell;
+	width: 40vw;
+	
+
+}
+
+
+.p3 {
+
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#seba {
+	width: 16vw;
+	display: table-cell;
+	
+	
+}
+.texto3 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+.p4 {
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#sara {
+	width: 13vw;
+	display: table-cell;
+
+	
+}
+.texto4 {
+	display: table-cell;
+	width: 40vw;
+	
+
+}
+
+.p5 {
+
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#vale {
+	width: 10vw;
+	display: table-cell;
+	
+	
+}
+.texto5 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+.p6 {
+
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#michelle {
+	width: 14vw;
+	height: 23vw;
+	display: table-cell;
+	
+	
+}
+.texto6 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+.p7 {
+
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#marti {
+	width: 13vw;
+	height: 23vw;
+	display: table-cell;
+	
+	
+}
+.texto7 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+
+.p8 {
+
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#lorenzo {
+	width: 14vw;
+	height: 26vw;
+	display: table-cell;
+	
+	
+}
+.texto8 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+
+.p9 {
+
+	display: inline-flex;
+	margin: 3vw;
+}
+
+#caro {
+	width: 12vw;
+	height: 23vw;
+	display: table-cell;
+	
+	
+}
+.texto9 {
+	display: table-cell;
+	width: 40vw;
+
+
+}
+
+.titulo {
+	color: #FDC92F;
+
+}
+
+h3 {
+	color:  #FDC92F;
 }
 
 
