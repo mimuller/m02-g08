@@ -9,7 +9,7 @@ header {
 	background-color: #FDC92F;
 	display: inline-flex;
 	margin: -1vw;
-	width: 101.4%;
+	width: 101.5%;
 	text-align: center;
 	align-items: center;
 	height: 15vh;
@@ -34,6 +34,38 @@ header {
 	width: 2.5vw;
 }
 
+section	{
+	margin: 2vw;
+	margin-top: 3vw;
+	padding: 2vw;
+}
+
+section h1{
+	font-family: 'Space Grotesk';
+	font-size: 4vw;
+	font-weight: 700;
+	height: 10vw;
+	color: 	#FDC92F;
+	justify-content: 	center;
+}
+
+section h2{
+	font-family: 'Space Grotesk';
+	font-size: 2vw;
+	font-weight: 300;
+	height: 10vw;
+	color: 	#FDC92F;
+	margin-top: -15vh;
+}
+
+section h3{
+	font-family: 'Space Grotesk';
+	font-size: 2vw;
+	font-weight: 700;
+	height: 10vw;
+	color: 	#FDC92F;
+	margin-top: -15vh;
+}
 
 footer {
 	text-align: center;
@@ -42,7 +74,7 @@ footer {
 	height: 10vw;
 	justify-content: center;
 	display: flex;
-	width: 100%;
+	width: 100.5%;
 	margin-top: 20px;
 }
 
